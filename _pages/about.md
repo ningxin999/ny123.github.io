@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Machine learning saves the world"
+title: "Machine learning saves the world!"
 author_profile: true
 redirect_from: 
   - /about/
