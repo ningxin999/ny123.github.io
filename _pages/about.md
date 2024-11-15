@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Ningxin Yang, a 2nd PhD student from Imperial College London. Now I am supervised by [Dr Truong Le](https://profiles.imperial.ac.uk/truong.le) and [Prof. Lidija Zdravkovic](https://profiles.imperial.ac.uk/l.zdravkovic).
+Hi, I am Ningxin Yang, a 2nd PhD student from Imperial College London. Now I am proud to work with [Dr Truong Le](https://profiles.imperial.ac.uk/truong.le) and [Prof. Lidija Zdravkovic](https://profiles.imperial.ac.uk/l.zdravkovic).
 
 Contacts
 ======
