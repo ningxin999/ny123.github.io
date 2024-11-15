@@ -11,4 +11,4 @@ Hi, I am Ningxin Yang, a 2nd PhD student from Imperial College London. Now I am 
 Contacts
 ======
 GitHub: [ningxin999](https://github.com/ningxin999)  
-Email: [ny123](n.yang23@imperial.ac.uk)
+Email: [n.yang23@imperial.ac.uk](n.yang23@imperial.ac.uk)
